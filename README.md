@@ -4,39 +4,47 @@
 
 Eu construo soluções inteligentes que unem a realidade administrativa das empresas à tecnologia. Minha carreira tem uma combinação estratégica: uma **sólida experiência em administração** e uma **formação prática em desenvolvimento de software**.
 
-Na **administração**, atuei diretamente com controle de faturamento, gestão de processos, logística e planejamento financeiro. Essas atividades me deram uma visão sistêmica e analítica, focada em organização e eficiência.
+Na **administração**, atuei diretamente com controle de faturamento, gestão de processos, logística e financeiro. Essas atividades me deram uma visão sistêmica e analítica, focada em organização e eficiência.
 
-Como **Desenvolvedor Full Stack**, eu aplico essa visão de negócio para criar sistemas que vão além do código. Meu objetivo é desenvolver soluções que atendam a necessidades reais, automatizem processos e gerem dados valiosos para a tomada de decisões.
+Como **Desenvolvedor Full Stack em formação**, meu objetivo é exatamente este: aplicar minha visão de negócio para criar sistemas que vão além do código. Estou me dedicando a aprender como desenvolver soluções que atendam a necessidades reais, automatizem processos e gerem dados valiosos para a tomada de decisões.
 
-Em outras palavras: **eu não apenas construo software, eu construo pontes entre a operação de um negócio e seu potencial tecnológico.**
+Em outras palavras: **minha meta é construir pontes entre a operação de um negócio e seu potencial tecnológico.**
 
 ---
 
 ## 🛠️ Habilidades e Ferramentas
 
-**Back-end:**
-*   Node.js e Express.js
-*   Java
-*   Criação de APIs RESTful (CRUD)
-*   Bancos de Dados: PostgreSQL e SQLite
-*   Testes Unitários e Controle de Acesso
+Com base nos meus estudos e projetos, estas são as tecnologias e conceitos com os quais tenho familiaridade:
 
-**Front-end:**
-*   React
-*   HTML5, CSS3 e JavaScript
+**Front-End & Mobile**
+*   **React.js:** Desenvolvimento de interfaces web modernas.
+*   **React Native & Flutter:** Criação de aplicativos multiplataforma.
+*   **JavaScript, HTML5 & CSS3:** A base do desenvolvimento web.
+*   **Desenvolvimento Nativo para Android:** Conhecimentos em desenvolvimento para o ecossistema Android.
+*   **Fundamentos de UI:** Princípios de criação de interfaces amigáveis.
 
-**Outras Competências:**
-*   Git e GitHub para versionamento de código
-*   Desenvolvimento de interfaces de linha de comando (CLI)
-*   Integração de bibliotecas e documentação técnica
-*   Design e implementação modular de sistemas
+**Back-End**
+*   **Desenvolvimento de APIs RESTful:** Construção da lógica e comunicação de sistemas (CRUD).
+*   **Python:** Programação intermediária e desenvolvimento de scripts.
+*   **Java:** Linguagem robusta e orientada a objetos.
+*   **Node.js:** Ambiente para executar JavaScript no lado do servidor.
+
+**Bancos de Dados**
+*   **Bancos Relacionais (SQL):** Experiência com PostgreSQL e SQLite.
+*   **Bancos Não Relacionais (NoSQL):** Conhecimentos em modelos de dados flexíveis.
+
+**Qualidade, Conceitos e Ferramentas**
+*   **Testes de Software:** Testes aplicados a aplicações Web e Mobile.
+*   **Programação Orientada a Objetos (POO):** Paradigma fundamental para software escalável.
+*   **Padrões de Projeto (Design Patterns):** Soluções reutilizáveis para problemas comuns de software.
+*   **Git & GitHub:** Versionamento de código e colaboração.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- TROQUE 'seunomedeusuario' PELO SEU NOME DE USUÁRIO DO GITHUB -->
+  
   <a href="https://github.com/mais1codigo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seunomedeusuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunomedeusuario&layout=compact&langs_count=7&theme=dracula"/>
