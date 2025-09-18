@@ -45,7 +45,7 @@ Com base nos meus estudos e projetos, estas são as tecnologias e conceitos com 
 
 <p align="center">
   
-  <a href="https://github.com/mais1codigo">
+  <a href="https://github.com/mais1codigo](https://github.com/mais1codigo?tab=repositories">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seunomedeusuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunomedeusuario&layout=compact&langs_count=7&theme=dracula"/>
   </a>
