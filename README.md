@@ -4,12 +4,6 @@
 
 Eu construo soluções inteligentes que unem a realidade administrativa das empresas à tecnologia. Minha carreira tem uma combinação estratégica: uma **sólida experiência em administração** e uma **formação prática em desenvolvimento de software**.
 
-Na **administração**, atuei diretamente com controle de faturamento, gestão de processos, logística e financeiro. Essas atividades me deram uma visão sistêmica e analítica, focada em organização e eficiência.
-
-Como **Desenvolvedor Full Stack em formação**, meu objetivo é exatamente este: aplicar minha visão de negócio para criar sistemas que vão além do código. Estou me dedicando a aprender como desenvolver soluções que atendam a necessidades reais, automatizem processos e gerem dados valiosos para a tomada de decisões.
-
-Em outras palavras: **minha meta é construir pontes entre a operação de um negócio e seu potencial tecnológico.**
-
 ---
 
 ## 🛠️ Habilidades e Ferramentas
